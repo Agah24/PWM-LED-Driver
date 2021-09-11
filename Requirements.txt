@@ -1,0 +1,4 @@
+DC-Hohlstecker Ein- und Ausgang
+PWM-Dimming
+Voltage: 21 V  (typ.)
+Current: 190 mA (min.)
