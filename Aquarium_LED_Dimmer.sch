@@ -765,7 +765,7 @@ P 2300 1950
 F 0 "D5" V 2346 1880 50  0000 R CNN
 F 1 "PWR" V 2255 1880 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" V 2300 1950 50  0001 C CNN
-F 3 "~" V 2300 1950 50  0001 C CNN
+F 3 "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12x8_d13x8-e.pdf" V 2300 1950 50  0001 C CNN
 	1    2300 1950
 	0    -1   -1   0   
 $EndComp
@@ -793,7 +793,7 @@ L Device:R_Small R4
 U 1 1 613EE0E5
 P 2300 1700
 F 0 "R4" H 2359 1746 50  0000 L CNN
-F 1 "?k" H 2359 1655 50  0000 L CNN
+F 1 "1.8k" H 2359 1655 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 2300 1700 50  0001 C CNN
 F 3 "~" H 2300 1700 50  0001 C CNN
 	1    2300 1700
@@ -813,7 +813,7 @@ P 6850 1950
 F 0 "D6" V 6896 1880 50  0000 R CNN
 F 1 "REG" V 6805 1880 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" V 6850 1950 50  0001 C CNN
-F 3 "~" V 6850 1950 50  0001 C CNN
+F 3 "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12x8_d13x8-e.pdf" V 6850 1950 50  0001 C CNN
 	1    6850 1950
 	0    -1   -1   0   
 $EndComp
@@ -835,7 +835,7 @@ L Device:R_Small R5
 U 1 1 613F303C
 P 6850 1700
 F 0 "R5" H 6909 1746 50  0000 L CNN
-F 1 "?k" H 6909 1655 50  0000 L CNN
+F 1 "1k" H 6909 1655 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 6850 1700 50  0001 C CNN
 F 3 "~" H 6850 1700 50  0001 C CNN
 	1    6850 1700
@@ -870,7 +870,7 @@ P 8150 5400
 F 0 "D7" V 8196 5330 50  0000 R CNN
 F 1 "PWM" V 8105 5330 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" V 8150 5400 50  0001 C CNN
-F 3 "~" V 8150 5400 50  0001 C CNN
+F 3 "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12x8_d13x8-e.pdf" V 8150 5400 50  0001 C CNN
 	1    8150 5400
 	0    -1   -1   0   
 $EndComp
@@ -892,7 +892,7 @@ L Device:R_Small R7
 U 1 1 61417261
 P 8150 5150
 F 0 "R7" H 8209 5196 50  0000 L CNN
-F 1 "?k" H 8209 5105 50  0000 L CNN
+F 1 "1.8k" H 8209 5105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 8150 5150 50  0001 C CNN
 F 3 "~" H 8150 5150 50  0001 C CNN
 	1    8150 5150
