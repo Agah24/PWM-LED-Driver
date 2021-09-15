@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name DO-214AA)(type KiCad)(uri "C:/Users/agah2/Desktop/Ordner/Ordner1/KiCad Files/KiCAD/2021-09-08_20-29-14/footprints.pretty")(options "")(descr ""))
-  (lib (name "Eigene Footprints")(type KiCad)(uri "C:/Users/agah2/Desktop/Ordner/EDV.Programmierung/KiCad/Eigene Footprints")(options "")(descr ""))
-)
