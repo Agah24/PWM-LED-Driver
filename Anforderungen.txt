@@ -1,4 +1,0 @@
-DC-Hohlstecker Ein- und Ausgang
-PWM-Dimmung
-Spannung: 21 V
-Strom: 190 mA
